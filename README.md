@@ -8,11 +8,11 @@
 
 <h3>Add Categories (Admin) :</h3>
 
+![Capture3](https://user-images.githubusercontent.com/76530494/176438453-6e06eb18-9b91-4698-a979-d3e4241a1081.JPG)
+
 <h3>Add Product(Admin) :</h3>
 
 ![Capture4](https://user-images.githubusercontent.com/76530494/176438457-0a59ab9d-9f64-4bda-aca9-9f7af1d180bf.JPG)
-
-![Capture3](https://user-images.githubusercontent.com/76530494/176438453-6e06eb18-9b91-4698-a979-d3e4241a1081.JPG)
 
 <h3>Home Page (User) :</h3>
 
